@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c47bb52-0e82-4e10-81ee-306054249fb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jetlag.ai-2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6c47bb52-0e82-4e10-81ee-306054249fb9" name="Changes" comment="set-up">
+      <change afterPath="$PROJECT_DIR$/data-finance-react-tailwind/src/components/Form.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-finance-react-tailwind/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/data-finance-react-tailwind/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-finance-react-tailwind/src/components/Analytics.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/data-finance-react-tailwind/src/components/Analytics.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-finance-react-tailwind/src/components/Cards.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/data-finance-react-tailwind/src/components/Cards.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-finance-react-tailwind/src/components/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/data-finance-react-tailwind/src/components/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-finance-react-tailwind/src/components/Hero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/data-finance-react-tailwind/src/components/Hero.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-finance-react-tailwind/src/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/data-finance-react-tailwind/src/components/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-finance-react-tailwind/src/components/Newsletter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/data-finance-react-tailwind/src/components/Newsletter.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +22,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/data-finance-react-tailwind" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kvitkas"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/kvitkas/data-finance-react-tailwind.git",
@@ -27,7 +40,9 @@
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2rsqtqST7Gn2DU9MQBgbqUjYZTX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,6 +69,19 @@
       <option name="presentableId" value="Default" />
       <updated>1737358347614</updated>
     </task>
+    <task id="LOCAL-00001" summary="set-up">
+      <option name="closed" value="true" />
+      <created>1737358764301</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737358764301</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="set-up" />
+    <option name="LAST_COMMIT_MESSAGE" value="set-up" />
   </component>
 </project>
